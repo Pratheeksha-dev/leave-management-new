@@ -219,6 +219,13 @@ PUT /leaves/{id}/status?status=APPROVED → Approve or reject leave
 
 
 
+## (Bonus) Postman Collection for Testing
+
+You can access and import the Postman collection for this project using [this link](https://pratheeksha10-3794733.postman.co/workspace/Pratheeksha's-Workspace~e9695c55-438d-4b36-8169-2821cebb7714/request/48887375-1bac93b9-24a7-4460-a9fe-3a81b80524e9?action=share&creator=48887375).
+
+
+
+
 
 
 
